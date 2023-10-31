@@ -10,6 +10,7 @@ Each service has its own swagger spec.
 The two specs are united by running `autorest` in this directory, which will use this readme.md
 file for configuration options. It will generate a single *azure-mgmt-containerservice* client
 library.
+a
 
 ---
 
