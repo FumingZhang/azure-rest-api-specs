@@ -11,6 +11,7 @@ The two specs are united by running `autorest` in this directory, which will use
 file for configuration options. It will generate a single *azure-mgmt-containerservice* client
 library.
 a
+b
 
 ---
 
